@@ -1,4 +1,4 @@
-/* Developed By FNU Shilpi 
+/* Developed By Shilpi Sirohi
 	It is a music recommendation game based on the user's choice. 
     Instructions to start execution is -->  ?- start.     */
 
